@@ -1,4 +1,3 @@
-//**UNALTERED BY GILLY AQUINO, ONLY THIS COMMENT**//
 Project "figures"
 Authors: Michael Kölling and David J. Barnes
 
@@ -42,3 +41,9 @@ The project also demonstrates
 A good second project to look at after this is "picture", which adds a class
 to those ones in this project. That class (named "Picture") uses the shapes
 to draw a picture. It can be used to experiment with coding.
+
+Q.2 If you call moveDown twice it moves it down 40 pixels, 3 times, 60 pixels,
+as when you call moveDown once it moves down 20 pixels, so 20 x 2 = 40, 20 x 3 = 60.
+
+Q.6 Invoking changeColor changes the color to whatever you put withing quotes, given
+that it is a valid color within BlueJ.
